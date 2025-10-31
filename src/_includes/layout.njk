@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/styles/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="/">home</a>
+        <a href="/about/">about</a>
+        <a href="#">portfolio</a>
+        <a href="#">contact</a>
+      </nav>
+    </header>
+    <main>{{ content | safe }}</main>
+  </body>
+</html>
