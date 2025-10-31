@@ -1,5 +1,9 @@
 # Made with 11ty blog
 
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/f103689e-3a39-4e92-9400-b9ce27462bc7" />
+
+
+
 ## Description
 
 This website is a school assignment made with 11ty for an excersise about working with different frameworks. 
